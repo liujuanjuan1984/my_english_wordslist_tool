@@ -17,7 +17,7 @@ while True:
     with open(ifile, "r", encoding="utf-8") as f:
         idata = f.read()
 
-    tag_1 = "#progress/done"
+    tag_1 = "#progress"
     if tag_1 in idata:
         print(word, "is done.\n")
         continue
@@ -28,7 +28,7 @@ while True:
         print(idata, "\n\n0 no 1 yes?")
         checked = input("\n>>")
         if checked == "1":
-            tag = tag_1
+            tag = "#progress/done"
         else:
             tag = "#progress/doing"
     else:
