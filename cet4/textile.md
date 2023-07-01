@@ -1,0 +1,10 @@
+textile
+
+[ˈtekstail]
+
+n.纺织品
+
+a.纺织的
+
+#type/CET4
+

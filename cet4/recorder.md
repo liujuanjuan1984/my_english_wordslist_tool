@@ -1,0 +1,8 @@
+recorder
+
+[riˈkɔːdə]
+
+n.记录者；录音机
+
+#type/CET4
+

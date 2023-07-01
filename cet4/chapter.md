@@ -1,0 +1,8 @@
+chapter
+
+[ˈt∫æptə]
+
+n.章，回，篇
+
+#type/CET4
+

@@ -1,0 +1,8 @@
+host
+
+[həust]
+
+n.主人；东道主
+
+#type/CET4
+

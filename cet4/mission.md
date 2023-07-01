@@ -1,0 +1,8 @@
+mission
+
+[ˈmi∫ən]
+
+n.使命，任务；使团
+
+#type/CET4
+
