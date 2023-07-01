@@ -7,7 +7,7 @@ import datetime
 this_repo = os.path.dirname(__file__)
 wordspath = os.path.join(this_repo, "cet4")
 
-num = 30
+num = 100
 words = os.listdir(wordspath)
 inum = 0
 
